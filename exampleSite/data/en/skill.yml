@@ -9,5 +9,10 @@ skill:
     source:
       type: custom
     options:
-        - "Scott Gallant"
-        - "Jordan Patterson"
+    - Scott Gallant
+    - Jordan Patterson
+  enable: true
+  title: WhereAreYOu
+  skill_item:
+  - name: Vlad
+    percent: ''
